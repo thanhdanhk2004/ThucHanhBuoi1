@@ -16,7 +16,7 @@ bool soNguyenTo(int soA)
     return true;
 }
 
-bool nam_nhuan(int year)
+bool kiem_nam_nhuan(int year)
 {
     if (year % 100 == 0)
     {
